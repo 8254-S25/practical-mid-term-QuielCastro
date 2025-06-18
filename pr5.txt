@@ -1,0 +1,2 @@
+quielandrewcastro:x:1001:1001::/home/quielandrewcastro:/bin/bash
+mysql:x:111:123:MySQL Server,,,:/nonexistent:/bin/false
